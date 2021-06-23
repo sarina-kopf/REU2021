@@ -1,0 +1,20 @@
+---
+title: "GitSetup"
+author: "Sarina Kopf"
+date: "6/23/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## How to make a new R project
+1. Go into R, select new project. 
+2. Select verison control. 
+3. Create new repository in git. 
+4. Paste the URL into the box it asks for. 
+5. Choose location for new project. 
+6. Voila!
+
+
